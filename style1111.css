@@ -1,0 +1,59 @@
+.sos {
+    background-color: rgb(238, 238, 239);
+}
+
+
+.dib {
+    background-color: rgb(170, 170, 209);
+    border-radius: 24px;
+}
+
+
+.video {
+    margin:34px;
+    border-radius: 12px;
+    border: 34px;
+    background: #000;
+    border: rgb(115, 117, 168) solid 1vw;
+    border-radius: 34px;
+
+}
+
+.wew {
+    background-color: rgb(115, 117, 168);
+    border: rgb(115, 117, 168) solid 4vw;
+    width: 20%;
+    height: 100%;
+    border-radius: 34px;
+    
+}
+
+.SAS {
+    position: relative;
+    bottom: 60px;
+    color: rgb(255, 255, 255);
+    margin-left: 70px;
+    font-family:'Gerhaus-Regular';
+    src: url(/fonts/Gerhaus-Regular.ttf)
+}
+
+
+.stoop {
+    font-size: 40px;
+    text-align: center;
+    vertical-align: middle;
+    position:relative;
+    top:-120px;
+    right: -10px;
+    color: rgb(255, 255, 255);
+  }
+
+.stoop:hover {
+    color: rgb(126, 90, 255);
+}
+
+
+
+.ASS {
+    background-color: #000;
+}

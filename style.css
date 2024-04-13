@@ -1,0 +1,65 @@
+.non {
+    background-color: rgb(159, 159, 227);
+    border-radius: 24px;
+
+}
+
+
+.A {
+    margin: 0px;
+    
+    border-radius: 900%;
+    position: relative;
+    top:-1.5px;
+
+}
+
+
+.N {
+    max-width: 435%;
+    position: relative;
+    
+    
+}
+
+
+
+
+
+.QQQ {
+    position:relative;
+    top:-90px;
+    right: -106px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif Georgia, Times, 'Times New Roman', serif;
+
+  }
+
+.QQQ:hover {
+    color: rgb(85, 85, 195);
+}
+
+
+
+  .Pn  {
+    position: relative;
+    top:-100px;
+    right: -785px;
+    border-radius: 34px;
+    
+  
+    
+    
+    
+    
+  }
+
+
+.stol {
+  color: rgb(30, 37, 171);
+}
+
+
+
